@@ -1,0 +1,15 @@
+Ejercicio 3.1: 
+1)¿Qué ́ ocurre si los factores de escala son diferentes entre sí?
+Rt)Si los valores de escala son diferentes la escala de la figura se realizará de manera desproporcionada y se desfigurará.
+
+2) ¿Y si algún factor de escala es cero?
+Rt)Si algun factor de escala es igual a cero el factor ya sea x,y,z se dirigira al origen, anulandole a la figura ya sea el largo,ancho o profundidad.
+
+3)¿Qué ́ ocurre si uno o varios factores de escala son negativos?
+Rt)La figura procede a invertirse en dicho eje,agrandando o reduciendo deacuerdo al tamaño del factor 
+
+4)¿Y si el factor de escala está ́ entre cero y uno?
+Rt)Si el factor de escala está entre cero y uno,seria una escala de reducción y por ende el tamaño de la figura se vuelve más pequeño
+
+
+
